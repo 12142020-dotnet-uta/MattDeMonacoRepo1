@@ -1,0 +1,11 @@
+/Users/matthewdemonaco/StoreAppConsole/StoreAppConsole/bin/Debug/netcoreapp3.1/StoreAppConsole
+/Users/matthewdemonaco/StoreAppConsole/StoreAppConsole/bin/Debug/netcoreapp3.1/StoreAppConsole.deps.json
+/Users/matthewdemonaco/StoreAppConsole/StoreAppConsole/bin/Debug/netcoreapp3.1/StoreAppConsole.runtimeconfig.json
+/Users/matthewdemonaco/StoreAppConsole/StoreAppConsole/bin/Debug/netcoreapp3.1/StoreAppConsole.runtimeconfig.dev.json
+/Users/matthewdemonaco/StoreAppConsole/StoreAppConsole/bin/Debug/netcoreapp3.1/StoreAppConsole.dll
+/Users/matthewdemonaco/StoreAppConsole/StoreAppConsole/bin/Debug/netcoreapp3.1/StoreAppConsole.pdb
+/Users/matthewdemonaco/StoreAppConsole/StoreAppConsole/obj/Debug/netcoreapp3.1/StoreAppConsole.csprojAssemblyReference.cache
+/Users/matthewdemonaco/StoreAppConsole/StoreAppConsole/obj/Debug/netcoreapp3.1/StoreAppConsole.AssemblyInfoInputs.cache
+/Users/matthewdemonaco/StoreAppConsole/StoreAppConsole/obj/Debug/netcoreapp3.1/StoreAppConsole.AssemblyInfo.cs
+/Users/matthewdemonaco/StoreAppConsole/StoreAppConsole/obj/Debug/netcoreapp3.1/StoreAppConsole.dll
+/Users/matthewdemonaco/StoreAppConsole/StoreAppConsole/obj/Debug/netcoreapp3.1/StoreAppConsole.pdb
